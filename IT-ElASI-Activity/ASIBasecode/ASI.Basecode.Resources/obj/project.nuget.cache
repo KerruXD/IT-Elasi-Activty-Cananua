@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fbw126MVbVQ=",
+  "success": true,
+  "projectFilePath": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kerr Harvey\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Kerr Harvey\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Kerr Harvey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}

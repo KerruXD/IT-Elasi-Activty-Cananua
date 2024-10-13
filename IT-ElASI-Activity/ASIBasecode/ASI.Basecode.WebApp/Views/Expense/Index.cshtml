@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ASI.Basecode.Data.Models.Expense>
+
+<div class="container pt-5">
+    <a asp-controller="Expense" asp-action="Create" class="btn btn-outline-primary mb-3">Add Expense</a>
+
+    @if (Model == null || !Model.Any())
+    {
+        <h4 class="font-weight-bold">No Expenses Existing</h4>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Title</th>
+                    <th>Amount</th>
+                    <th>Category</th>
+                    <th>Description</th>
+                    <th>Date</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var expense in Model)
+                {
+                    <tr>
+                        <td>@expense.Title</td>
+                        <td>₱@expense.Amount</td>
+                        <td>@expense.Category</td>
+                        <td>@expense.Description</td>
+                        <td>@expense.Date</td>
+                        <td>
+                            <a href="/Expense/Edit?id=@expense.ID" class="btn btn-warning text-white">Edit</a>
+                            <a href="/Expense/Delete?id=@expense.ID" class="btn btn-danger text-white">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

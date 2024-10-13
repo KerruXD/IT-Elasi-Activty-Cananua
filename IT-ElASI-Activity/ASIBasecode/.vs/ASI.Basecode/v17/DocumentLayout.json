@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\repositories\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\repositories\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\interfaces\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\interfaces\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\migrations\\20241012122818_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\migrations\\20241012122818_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\asibasecodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\asibasecodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\startup.di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\startup.di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.services\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|solutionrelative:asi.basecode.services\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.services\\interfaces\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|solutionrelative:asi.basecode.services\\interfaces\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|solutionrelative:asi.basecode.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|solutionrelative:asi.basecode.services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|d:\\cananua-activities\\it-elasi-activity\\asibasecode\\asi.basecode.data\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.DI.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Startup.DI.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Startup.DI.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Startup.DI.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Startup.DI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:23:12.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:23:00.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Services\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Services\\Services\\ExpenseService.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Services\\ExpenseService.cs",
+              "RelativeToolTip": "ASI.Basecode.Services\\Services\\ExpenseService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:22:18.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Interfaces\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Interfaces\\IExpenseRepository.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Interfaces\\IExpenseRepository.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Interfaces\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:20:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Repositories\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Repositories\\ExpenseRepository.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Repositories\\ExpenseRepository.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Repositories\\ExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:21:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsiBasecodeDbContext.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:24:39.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241012122818_Initial.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Migrations\\20241012122818_Initial.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Migrations\\20241012122818_Initial.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Migrations\\20241012122818_Initial.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Migrations\\20241012122818_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:28:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:39:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:25:04.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Expense\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Expense\\Index.cshtml",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Expense\\Index.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Expense\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T12:25:18.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Expense\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Expense\\Create.cshtml",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Expense\\Create.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Expense\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T12:26:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Expense\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Expense\\Edit.cshtml",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Expense\\Edit.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Expense\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T12:26:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T12:26:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:25:20.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Interfaces\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Services\\Interfaces\\IExpenseService.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Interfaces\\IExpenseService.cs",
+              "RelativeToolTip": "ASI.Basecode.Services\\Interfaces\\IExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:21:53.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Models\\Expense.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Models\\Expense.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Models\\Expense.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:20:09.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T22:44:44.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Models\\Book.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Models\\Book.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:18:51.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "ASI.Basecode.Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:25:02.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Services\\Services\\BookService.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Services\\Services\\BookService.cs",
+              "RelativeToolTip": "ASI.Basecode.Services\\Services\\BookService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:11:02.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\Cananua-Activities\\IT-ElASI-Activity\\ASIBasecode\\ASI.Basecode.Data\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:07:29.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
